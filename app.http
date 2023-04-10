@@ -14,11 +14,11 @@ Content-Type: application/json
 
 ### 
 //API3 
-GET http://localhost:3000/movies/48/ 
+GET http://localhost:3000/movies/46/ 
 
 ###
 //API4 
-PUT http://localhost:3000/movies/48/
+PUT http://localhost:3000/movies/46/
 Content-Type: application/json 
 {
     "directorId": 24,
@@ -29,7 +29,7 @@ Content-Type: application/json
 ### 
 //API5 
 
-DELETE http://localhost:3000/movies/48/
+DELETE http://localhost:3000/movies/46/
 
 ###
 //API6 
